@@ -18,9 +18,9 @@ install_spacy_model()
 nlp = spacy.load("en_core_web_sm")
 
 # Neo4j credentials
-uri = "neo4j+s://ff701b1c.databases.neo4j.io"
-username = "neo4j"
-password = "BfZM7YRKpFz1b_V7acAmOtaSQHPU9xK03rJlfPep88g"  
+uri = "Create Your Own URL"
+username = "Create Your Own Username"
+password = "Create Your Own Password"  
 
 # Connect to Neo4j
 driver = GraphDatabase.driver(uri, auth=(username, password))
