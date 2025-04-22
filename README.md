@@ -1,5 +1,8 @@
 # 🧠 Knowledge Graph Generator from Natural Language Text
 
+![Uploading image.png…]()
+
+
 ## 📌 Project Overview
 
 The **Knowledge Graph Generator** is a Natural Language Processing (NLP) application that extracts meaningful relationships from plain English text and visualizes them as a **knowledge graph**. It uses syntactic parsing to identify subject–verb–object triples and creates a graphical representation of this data for better understanding, insight generation, and knowledge discovery.
